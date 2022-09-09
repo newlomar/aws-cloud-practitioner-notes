@@ -73,3 +73,15 @@ In this module you will learn how to:
   - Integrate cloud-based resources with legacy applications
   - In a **hybrid deployment**, cloud-based resources are connected to on-premises infrastructure. You might want to use this approach in a number of situations. For example, you have legacy applications that are better maintained on premises, or government regulations requires your business to keep certain records on premises.
   - For example, suppose that a company wants to tuse cloud services that can automate batch data processing and analytics. However, the company has several legacy applications that are mode suitable on premises and will not be migrated to the cloud. With a hybrid deployment, the company would be able to keep the legacy applications on premises while benefiting from the data and analytics services that run in the cloud.
+
+<br />
+
+**Benefits of cloud computing**
+
+- Consider why a company might choose to take a particular cloud computing approach when addressing business needs:
+  - Trade upfront expenses for variable expense
+  - Stop spending money to run and maintain data centers
+  - Stop guessing capacity
+  - Benefit from massive economies of scale
+  - Increase speed and agility
+  - Go global in minutes
